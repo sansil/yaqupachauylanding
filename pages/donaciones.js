@@ -32,7 +32,7 @@ export default function Home() {
             <div className="mt-9">
               <div className="border border-slate-300 p-4 text-slate-800 rounded-xl shadow-md">
                 <h2 className="text-2xl font-semibold text-slate-700">
-                  También aceptamos crypto
+                  Doná con crypto
                 </h2>
                 <p className="mt-5">
                   Aceptamos donaciones desde la red de Ethereum o compatible con
@@ -50,7 +50,7 @@ export default function Home() {
             <div className="mt-9">
               <div className="border border-slate-300 p-4 text-slate-800 rounded-xl shadow-md">
                 <h2 className="text-2xl font-semibold text-slate-700">
-                  También aceptamos Paypal
+                  Doná con Paypal
                 </h2>
                 <p className="mt-5">
                   Haz click en la siguiente imágen para donar a través de Paypal
