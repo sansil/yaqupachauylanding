@@ -35,7 +35,7 @@ export default function Home() {
                 </h2>
                 <p className="mt-5">
                   Aceptamos donaciones desde la red de Ethereum o compatible con
-                  la EVM, como Arbirtrum, Polygon, Binance Smart Chain, etc.
+                  la EVM, como Arbitrum, Polygon, Binance Smart Chain, etc.
                 </p>
                 <div className="flex flex-col gap-y-3 mt-8 text-lg  font-medium text-slate-600">
                   <p className="overflow-auto">
