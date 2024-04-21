@@ -65,6 +65,7 @@ export default function Navbar() {
       href: "/prensa-y-divulgacion",
       current: false,
     },
+    { name: "Colabora", href: "/donaciones", current: false },
     { name: "Contacto", href: "/contacto", current: false },
   ]);
   const setActiveNavigation = (itemName) => {
